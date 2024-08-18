@@ -1,2 +1,2 @@
 # ATYPS
-stops you from lollygagging
+stops you from lollygagging after 45 seconds
